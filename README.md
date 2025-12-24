@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WalletPlus — Official Website
 
-## Getting Started
+WalletPlus is a modern financial tracking platform designed to help users manage receivables, payables, expenses, and income with clarity, security, and simplicity.
 
-First, run the development server:
+This repository contains the official website for WalletPlus, built using Next.js, Tailwind CSS, and shadcn/ui, and deployed via GitHub Pages.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Live Website:  
+https://walletplusapp.github.io
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About WalletPlus
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+WalletPlus is built for individuals, freelancers, families, and small businesses who want:
 
-## Learn More
+- Clear tracking of money owed to them and owed by them
+- Simple contact-based transaction management
+- Offline-first, secure financial records
+- Clean and intuitive user experience
 
-To learn more about Next.js, take a look at the following resources:
+This website serves as:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Product landing page
+- Feature overview
+- Legal & policy host (Privacy Policy, Terms & Conditions)
+- Official online presence for the WalletPlus app
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Legal Pages
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This website hosts:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Privacy Policy
+- Terms & Conditions
+- Contact & Support information
+
+These pages are required for:
+
+- Google Play Store compliance
+- User trust
+- Legal transparency
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+Note:  
+The WalletPlus name, logo, and mobile application are proprietary and are not granted by this license.
+
+---
+
+## Contact
+
+Email: walletplus.dev@gmail.com  
+Website: https://walletplusapp.github.io
+
+---
+
+## Contributions
+
+This repository represents a product website.  
+External contributions are currently not accepted.
+
+---
+
+## Final Note
+
+WalletPlus is focused on delivering secure, offline-first, and user-friendly financial tracking.
+
+Thank you for checking out the project.
+
+© 2025 WalletPlus. All rights reserved.

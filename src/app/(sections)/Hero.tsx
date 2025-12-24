@@ -107,8 +107,8 @@ export default function HeroSection() {
 
         {/* Subtitle */}
         <p className="mx-auto mt-8 max-w-2xl text-lg leading-relaxed text-muted-foreground md:text-xl">
-          WalletPlus helps you manage receivables, payables, and global expenses
-          with clarity, security, and total simplicity.
+          WalletPlus helps you manage receivables, and payables expenses with
+          clarity, security, and total simplicity.
         </p>
 
         {/* CTA Buttons - Using --btn variable */}

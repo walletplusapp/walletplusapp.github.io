@@ -49,10 +49,10 @@ export default function Features() {
     <section className="relative bg-transparent pb-24 px-6" id="features">
       <div className="absolute inset-0 -z-10 overflow-hidden">
         {/* Top Center Glow (Primary) */}
-        <div className="absolute left-1/2 top-[20%] h-[600px] w-[800px] -translate-x-1/2 rounded-full bg-primary/20 blur-[120px]" />
+        <div className="absolute left-1/2 top-[20%] h-[600px] w-[800px] -translate-x-1/2 rounded-full bg-primary/10 blur-[120px]" />
 
         {/* Right Mid Glow (Secondary) */}
-        <div className="absolute right-[-5%] top-[10%] h-[400px] w-[400px] rounded-full bg-secondary/10 blur-[100px]" />
+        <div className="absolute right-[-5%] top-[15%] h-[400px] w-[400px] rounded-full bg-secondary/10 blur-[100px]" />
 
         {/* Left Bottom Glow (Accent) */}
         <div className="absolute bottom-[8%] left-[-8%] h-[400px] w-[400px] rounded-full bg-accent/10 blur-[100px]" />

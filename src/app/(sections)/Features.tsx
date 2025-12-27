@@ -46,7 +46,10 @@ const features = [
 
 export default function Features() {
   return (
-    <section className="relative bg-transparent pb-24 px-6" id="features">
+    <section
+      className="relative bg-transparent pb-10 md:pb-24 lg:pb-32 px-6"
+      id="features"
+    >
       <div className="absolute inset-0 -z-10 overflow-hidden">
         {/* Top Center Glow (Primary) */}
         <div className="absolute left-1/2 top-[20%] h-[600px] w-[800px] -translate-x-1/2 rounded-full bg-primary/10 blur-[120px]" />

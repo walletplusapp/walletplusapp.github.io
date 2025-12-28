@@ -34,11 +34,10 @@ export default function HowItWorks() {
       className="relative pb-10 md:pb-24 lg:pb-32 px-6"
       id="how-it-works"
     >
-      {/* Background Decor */}
-      <div className="absolute inset-0 -z-10">
-        <div className="absolute left-1/2 top-0 h-[500px] w-full -translate-x-1/2 bg-[radial-gradient(50%_50%_at_50%_0%,rgba(var(--primary-rgb),0.05)_0%,transparent_100%)]" />
+      <div className="absolute inset-0 -z-10 overflow-hidden">
+        {/* Top Center Glow (Primary) */}
+        <div className="absolute left-1/2 top-[40%] h-[300px] w-[800px] -translate-x-1/2 rounded-full bg-primary/10 blur-[120px]" />
       </div>
-
       <div className="mx-auto max-w-screen-2xl">
         {/* Header */}
         <div className="max-w-3xl py-4 md:py-8 lg:py-16">

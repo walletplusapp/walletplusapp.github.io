@@ -4,6 +4,7 @@ import Navbar from "@/components/navbar";
 import ThemeProvider from "@/components/ThemeProvider";
 import ThemeToggle from "@/components/ThemeToggle";
 import "./globals.css";
+import Footer from "./(sections)/Footer";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -36,6 +37,7 @@ export default function RootLayout({
         <ThemeProvider>
           <Navbar />
           {children}
+          <Footer />
           <ThemeToggle />
         </ThemeProvider>
       </body>

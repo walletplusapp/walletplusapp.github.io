@@ -27,8 +27,8 @@ export default function NotFound() {
         Lost in the ledger?
       </h1>
       <p className="mt-4 max-w-[450px] text-lg text-muted-foreground">
-        We couldn't find the page or transaction you're looking for. It might
-        have been moved or deleted.
+        {`We couldn't find the page or transaction you're looking for. It might
+        have been moved or deleted.`}
       </p>
 
       {/* Actions */}

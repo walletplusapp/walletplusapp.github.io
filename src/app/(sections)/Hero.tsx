@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ChevronRight, Globe, Lock, Zap } from "lucide-react";
+import Link from "next/link";
 
 export default function HeroSection() {
   return (
@@ -53,7 +54,7 @@ export default function HeroSection() {
             variant="outline"
             className="h-14 rounded-full border-border bg-background/50 px-8 text-base font-semibold backdrop-blur-sm"
           >
-            View Features
+            <Link href="#features">View Features</Link>
           </Button>
         </div>
 

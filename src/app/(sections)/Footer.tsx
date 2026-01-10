@@ -38,7 +38,7 @@ export default function Footer() {
                 Product
               </h4>
               <ul className="space-y-3 text-sm">
-                {["About", "Contact", "Features", "Pricing"].map((item) => (
+                {["About", "Contact", "Features"].map((item) => (
                   <li key={item}>
                     <Link
                       href={`/${item.toLowerCase()}`}

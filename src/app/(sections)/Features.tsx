@@ -10,7 +10,7 @@ import {
 const features = [
   {
     icon: Wallet,
-    title: "Receivables & Payables",
+    title: "Lent & Borrows",
     description:
       "Clearly track money you give and receive with dedicated categories.",
   },

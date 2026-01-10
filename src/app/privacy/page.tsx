@@ -150,16 +150,8 @@
 "use client";
 
 import React from "react";
-import {
-  Shield,
-  Lock,
-  Smartphone,
-  Trash2,
-  Database,
-  LucideIcon,
-} from "lucide-react";
+import { Shield, Lock, Smartphone, Trash2, Database } from "lucide-react";
 
-// --- Static Data Definition (JSON-like structure) ---
 const privacyContent = {
   header: {
     badge: "Privacy Policy",

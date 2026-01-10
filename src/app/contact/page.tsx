@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Mail, MessageSquare, Globe } from "lucide-react";
+import { Mail, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
